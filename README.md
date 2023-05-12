@@ -1,4 +1,4 @@
-# Up to visualizing benard-convection 
+# Until visualizing benard-convection 
 
 1. Download "benard-convection" case folder
 
