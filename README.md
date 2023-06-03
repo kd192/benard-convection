@@ -1,6 +1,6 @@
 # Until visualizing benard-convection 
 
-1. Download "benard-convection" case folder
+1. Download "convection" case folder
 
 2. Open the file explorer.
 
